@@ -1,0 +1,6 @@
+{
+  "name": "Zall Clone",
+  "description": "Aplikasi clone manager canggih tanpa root untuk membuat dan mengelola banyak instance aplikasi dengan data terpisah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

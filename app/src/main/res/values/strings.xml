@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zall Clone</string>
+    <string name="app_tagline">Multi-Instance &amp; Clone Manager Tanpa Root</string>
+    <string name="tab_clones">Klon Saya</string>
+    <string name="tab_apps">Pilih Aplikasi</string>
+    <string name="tab_virtual_space">Ruang Terisolasi</string>
+    <string name="tab_settings">Pengaturan</string>
+    <string name="create_clone">Kloning Aplikasi</string>
+    <string name="launch">Buka</string>
+    <string name="delete">Hapus</string>
+    <string name="settings">Setelan</string>
+    <string name="storage_data">Data Terpisah</string>
+    <string name="no_root_needed">100% Tanpa Root</string>
+</resources>
